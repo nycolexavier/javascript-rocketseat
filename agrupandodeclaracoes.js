@@ -17,4 +17,6 @@ console.log(age, isHuman)
 console.log('O' + name + )
 
 
-// interpolando valores com templ
+// interpolando valores com template literals or template strings
+
+console.log(`o ${name} tem ${age} anos.`)
