@@ -11,22 +11,24 @@
 
 */
 
-let notas = 
-let notaA = notas >= 90
-let notaB = notas >= 80
-let notaC = notas >= 70
-let notaD = notas >= 60 
-let notaE = notas <= 60
+let score = 100
+let scoreA = score >= 90 && score <= 100
+let scoreB = score >= 80 && score <= 89
+let scoreC = score >= 70 && score <= 79
+let scoreD = score >= 60 && score <= 69
+let scoreE = score <= 60 && score <= 0
 
 
-if (notaA) {
+if (scoreA) {
     console.log("A")
-} else if (notaB ) {
+} else if (scoreB) {
     console.log("B")
-} else if (notaC) {
+} else if (scoreC) {
     console.log('C')
-} else if (notaD) {
+} else if (scoreD) {
     console.log('D')
-} else if (notaE) {
+} else if (scoreE) {
     console.log('E')
+} else {
+    console.log('Nota inválida')
 }
