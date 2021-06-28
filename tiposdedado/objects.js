@@ -6,3 +6,11 @@ const person = {
 }
 
 console.log(`${person.name} tem ${person.age}anos`)
+
+console.log({
+    name: "Nycole",
+    idade: 18,
+    andar: function() {
+        console.log('andar')
+    }
+})
