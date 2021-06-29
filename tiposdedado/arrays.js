@@ -1,6 +1,7 @@
-// Array
+// Array (vetores)
 
-const animals = [
+const animals = 
+[
     'Lion',
     'Monkey',
     {

@@ -1,7 +1,7 @@
 // para criar nomes
 
 // JS é case-sensitive (sensível ao caso)
-// JS aceita a cadeia de caracteres Unicode
+// JS aceita a cadeia de caracteres Unicode (pode colocar aspas e acentuações que ele aceita)
 
 // Posso:
 //      Iniciar com esses caracteres especiais: $_
