@@ -38,13 +38,12 @@ MIT License ©
 ---
 
 <a href="https://nycole-xavierr.medium.com/">
- <img style="border-radius: 15%;" src="assets/eu01.jpeg" width="100px;" alt=""/>
- <br />
- <sub><b>Nycole Xavier</b></sub></a> <a href="https://nycole-xavierr.medium.com/" title="Medium">👩‍💻</a>
-
+<img style="border-radius: 15%;" src="assets/eu01.jpeg" width="100px;" alt=""/>
+<br />
+<sub><b>Nycole Xavier</b></sub></a> <a href="https://nycole-xavierr.medium.com/" title="Medium">👩‍💻</a>
 
 Feito com ❤️ por Nycole Xavier 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/) 
+[![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/)
 
 (repositório em desenvolvimento)
