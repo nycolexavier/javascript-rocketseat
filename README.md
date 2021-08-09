@@ -15,19 +15,24 @@ Nesse repositório guardo todas as anotações, materiais e projetos que foram r
 
 ### Features
 
-- [x] Aula 01
-- [x] Aula 02
-- [ ] Aula 03
-- [ ] Aula 04 
-- [ ] Aula 05
+- [x] Introdução
+- [x] Primeiros Passos
+- [x] Tipos de dados
+- [x] Variáveis
+- [x] Praticando e avançando
+- [x] Funções
+- [x] Manipulando dados
+- [x] Expressões e Operadores
+- [x] Condicionais e controle de fluxo
+- [ ] Estruturas de repetição
 
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Python](https://www.python.org/downloads/)
-- [Anaconda](https://www.anaconda.com/products/individual)
-- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Discover](https://app.rocketseat.com.br/discover)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [JavaScript](https://www.javascript.com/)
 
 ### Licença
 
