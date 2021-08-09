@@ -1,7 +1,6 @@
----
 <img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
 
-<p align="center">Esse curso esta disponível no canal do YouTube: <a href="https://youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG" > Aqui </a> </p>
+<p align="center">Esse curso esta disponível no canal do Discover: <a href="https://app.rocketseat.com.br/discover" target='_blank'> Aqui </a> </p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
