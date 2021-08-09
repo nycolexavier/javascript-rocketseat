@@ -1,3 +1,5 @@
+![guiaEstelarJavaScript](https://user-images.githubusercontent.com/74930052/128743150-610031f5-5991-4f87-9e18-77ef5c77d896.png)
+
 <img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
 
 <p align="center">Esse curso esta disponível no canal do Discover: <a href="https://app.rocketseat.com.br/discover" target='_blank'> Aqui </a> </p>
@@ -49,5 +51,3 @@ MIT License ©
 Feito com ❤️ por Nycole Xavier 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/)
-
-(repositório em desenvolvimento)
